@@ -1,5 +1,5 @@
 <h1 align="center">
-  Minimal Gatsby Based Site with a Blog
+  Minimal Gatsby Site and Core Blog
 </h1>
 
 This project is built with the minimal set of depencies for creating a Gatsby based site with a blog. The two major components are:
