@@ -16,7 +16,12 @@
   },
   "dependencies": {
     "gatsby": "^3.2.1",
+    "gatsby-image": "^3.3.0",
+    "gatsby-theme-blog-core": "^2.1.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@mdx-js/react": "^1.6.22"
   }
 }
